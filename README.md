@@ -58,16 +58,16 @@ means were delivery that same day of order while the product with the slowest de
 Round Conference Room Tables and Bases with an Average of 167 days of delivery.
 TOP 5 FASTEST DELIVERY PRODUCT
 Executive Impressions 16-1/2" Circular Wall Clock	0
-Linden 12" Wall Clock With Oak Frame				0
-Nu-Dell EZ-Mount Plastic Wall Frames				0
-Bevis Boat-Shaped Conference Table					1
-Contemporary Borderless Frame						    1
+Linden 12" Wall Clock With Oak Frame			0
+Nu-Dell EZ-Mount Plastic Wall Frames			0
+Bevis Boat-Shaped Conference Table			1
+Contemporary Borderless Frame				1
 TOP 5 SLOWEST DELIVERY PRODUCT
-Bevis Round Conference Room Tables and Bases					        167
-Bush Mission Pointe Library										                123
+Bevis Round Conference Room Tables and Bases	167
+Bush Mission Pointe Library	123
 Global Enterprise Series Seating Low-Back Swivel/Tilt Chairs	123
-Bush Cubix Collection Bookcases, Fully Assembled				      103
-Career Cubicle Clock, 8 1/4", Black								            102
+Bush Cubix Collection Bookcases, Fully Assembled	103
+Career Cubicle Clock, 8 1/4", Black		102
 */
 ~~~
 ### 4. Which product Subcategory generate most profit?
