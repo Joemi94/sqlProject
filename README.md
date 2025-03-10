@@ -18,6 +18,8 @@ The goal of this analysis is to determined the following:
 ## Data Cleaning/Preparation
 The dataset was inspecting in Microsoft Excel for missing data and for duplicate records. There was no missing values recorded.
 Data Modeling and other cleaning processes was done using SQL Server. 
+![cap](https://github.com/user-attachments/assets/1b9c7ad9-7fe7-49dd-affc-e84e846b1a69)
+
 ## Result
 ### 1. What was the Average delivery days for different product subcategory?
 ~~~ sql
